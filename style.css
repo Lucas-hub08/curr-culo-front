@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+}
+
+
+hr{
+    border-color: blue;   
+    
+}
+.resumo{
+    text-align: center;
+     color: rgb(60, 0, 255);
+}
+.res2{
+    text-align: center;
+}
+.estudo{
+    text-align: center;
+    color: rgb(60, 0, 255);
+}
+p{
+    text-align: center;
+}
+.projeto{
+    text-align: center;
+    color: rgb(60, 0, 255);
+}
+.hab{
+    text-align: center;
+    color: rgb(60, 0, 255);
+}
+li{
+    text-align: center;
+    list-style: none;
+}
+
+.ft{
+    margin: auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.fotos  {
+justify-content: center;
+display: flex;
+margin: 100px; 
+gap: 80px;
+}
+
