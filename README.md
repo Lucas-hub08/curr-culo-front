@@ -1,1 +1,1 @@
-# curr-culo-front
+currículo-front
